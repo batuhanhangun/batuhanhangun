@@ -3,7 +3,7 @@
 ![grin-doomguy](https://user-images.githubusercontent.com/38015481/171112646-158fba15-0c4e-4ec5-979a-c167e5367c4a.gif)
 
 
-Hello there, this is Batuhan here</br>
+Hello there, this is Batuhan here.</br>
 I am an electrical engineer with an interest in learning about computer vision, image processing, and computer graphics.
 
 📫 How to reach me **batuhanhangun@gmail.com**

@@ -6,7 +6,7 @@
 Hello there, this is Batuhan here.</br>
 I am an electrical engineer with an interest in learning about computer vision, image processing, and computer graphics.
 
-📫 How to reach me **batuhanhangun@gmail.com**
+📫 How to reach me **batuhanhangun@gmail.com** </br>
 🏠 https://www.batuhanhangun.com/
 
 

@@ -22,3 +22,5 @@ I am an electrical engineer with an interest in learning about computer vision, 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanhangun&show_icons=true&locale=en&layout=compact" alt="batuhanhangun" /></p>
 
+<a href="http://www.github.com/batuhanhangun"><img src="https://github-readme-stats.vercel.app/api?username=batuhanhangun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Batuhan Hangun's GitHub stats" /></a>
+

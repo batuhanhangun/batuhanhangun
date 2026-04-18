@@ -10,6 +10,9 @@ I'm an electrical engineer and PhD candidate working at the intersection of **qu
 - 👁️ **Computer vision** — Image processing and CV pipelines.
 - 🛠️ **Engineering** — C, C++ and Python for pretty much everything, from research code to side projects.
 
+### 🎓 Research & Publications
+- 🧾 <a href="https://scholar.google.com/citations?user=kW1pVNEAAAAJ&h">Google Scholar</a>
+
 ### 📫 How to reach me
 - ✉️ **batuhanhangun@gmail.com**
 - 🏠 https://www.batuhanhangun.com/
